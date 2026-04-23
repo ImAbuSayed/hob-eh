@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي تعال في هذا الليل
+> قلبي ينادي من غير دليل
+> شوقي يزيد ونار الغرام
+> خذني إليك وانسى الملام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
