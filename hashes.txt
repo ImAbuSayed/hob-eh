@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hob Eh
+
+This log tracks the cryptographic history and versioning for the song **Hob Eh** (hob-eh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:44:23.522167 | `v1` | `c4cd9a73c2f9ab8247a4c92c99f8676cf24a4589df9ccc4fde452d92571ecf91` | `21da76cfa003b21c1f584d2698e6e5981542627e8639730e548ef719e7116815` | `2026-05-09_hob-eh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
